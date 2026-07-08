@@ -49,7 +49,7 @@
  > 「無理のない範囲で習慣化できる」をメインコンセプトとし、Lumi(AIペット)があなたの生活習慣に基づいたアドバイスとカウセリングができます。<br>
  > [注意]　AI機能につきましては、現在頑張って実装に取り組んでいますので少々お待ちください🙇<br>
  > [プロジェクト詳細]: https://github.com/lumi-app-project <br>
- > [アプリURL]: https://lumi-project-kappa.vercel.app/ <br>
+ > [アプリURL]: https://lumi-assistant-app.vercel.app/ <br>
 
   ---
 
